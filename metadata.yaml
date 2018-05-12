@@ -1,0 +1,24 @@
+_repo: Saratoga-and-How-to-See-It_17633
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dearborn, R. F.
+    gutenberg_agent_id: '7506'
+    url: http://www.gutenberg.org/2009/agents/7506
+description: ''
+gutenberg_issued: '2006-01-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17633'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Saratoga Springs (N.Y.) -- Guidebooks'
+- !lcc 'F106'
+title: Saratoga and How to See It
+url: http://www.gutenberg.org/ebooks/17633
